@@ -1,41 +1,138 @@
-# Titanic Survival Prediction — Logistic Regression Classifier
+<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h3 align="center">Machine Learning Intern @ Neuro Five | Data Science Student | AI & ML Enthusiast</h3>
 
-## 📌 Project Overview
-This machine learning project predicts passenger survival on the Titanic based on demographic and ticket features using a **Logistic Regression** model built with `scikit-learn`.
-
----
-
-## 🛠️ Workflow & Methodology
-1. **Data Cleaning & Preprocessing:**
-   * Imputed missing values for numerical features (`Age`, `Fare`) using median values.
-   * Filled missing categorical values (`Embarked`) using the mode.
-2. **Feature Encoding:**
-   * Applied One-Hot Encoding (`pd.get_dummies`) to binary and multi-class categorical variables (`Sex`, `Embarked`) with `drop_first=True` to prevent multicollinearity.
-3. **Data Splitting:**
-   * Split dataset into **80% training** and **20% testing** sets using stratified sampling to preserve target class balance.
-4. **Model Training & Evaluation:**
-   * Trained a `LogisticRegression` classifier.
-   * Evaluated model accuracy and analyzed error distribution via a confusion matrix.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Intern;Data+Science+Student;Python+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 📊 Results & Key Metrics
-* **Final Test Accuracy:** `~80%`
-* **Confusion Matrix Insights:**
-  * High precision in identifying non-survivors.
-  * Majority of prediction errors stem from false negatives (under-predicting survival due to dataset class imbalance).
+## 🚀 About Me
+
+🎓 BS Data Science Student
+
+💼 Currently working as a **Machine Learning Intern at Neuro Five**
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+
+📚 Currently learning:
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Feature Engineering
+- Model Deployment
+
+💡 I enjoy solving real-world problems using data.
 
 ---
 
-## 🚀 How to Run Locally
+## 🛠 Tech Stack
 
-```bash
-# Clone repository
-git clone [https://github.com/your-username/titanic-ml-classifier.git](https://github.com/your-username/titanic-ml-classifier.git)
-cd titanic-ml-classifier
+### Programming Languages
+- Python
+- SQL
+- Java
+- HTML
+- CSS
 
-# Install dependencies
-pip install pandas numpy scikit-learn
+### Machine Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-# Run script
-python train_model.py
+### Tools
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 📂 Current Internship
+
+🏢 **Company:** Neuro Five
+
+**Domain:** Machine Learning
+
+During my internship, I am working on:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Machine Learning Models
+- Model Evaluation
+- Real-world ML Tasks
+- Python Programming
+- Dataset Preprocessing
+
+More internship projects will be uploaded regularly.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build Real-World Machine Learning Projects
+- Master Scikit-Learn
+- Learn Deep Learning
+- Learn MLOps
+- Contribute to Open Source
+- Build an AI Portfolio
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- APIs
+- Flask
+- FastAPI
+- Model Deployment
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌐 Portfolio: Coming Soon...
+
+---
+
+## 💬 Favorite Quote
+
+> "Data is the new oil, but insight is the real value."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Don't forget to star the repositories you like.
+</p>
