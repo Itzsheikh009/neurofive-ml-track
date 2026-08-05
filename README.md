@@ -119,9 +119,9 @@ More internship projects will be uploaded regularly.
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email:rehmansheikh371@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sheikh-rehman-5551252b4)
 
 🌐 Portfolio: Coming Soon...
 
